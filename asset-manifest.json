@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/AayushVerma/static/css/main.6a236c98.css",
+    "main.js": "/github.io/AayushVerma/static/js/main.30d1926b.js",
+    "static/js/453.1407b060.chunk.js": "/github.io/AayushVerma/static/js/453.1407b060.chunk.js",
+    "static/media/wallpaper2.jpg": "/github.io/AayushVerma/static/media/wallpaper2.508248a3b23ce155e840.jpg",
+    "index.html": "/github.io/AayushVerma/index.html",
+    "main.6a236c98.css.map": "/github.io/AayushVerma/static/css/main.6a236c98.css.map",
+    "main.30d1926b.js.map": "/github.io/AayushVerma/static/js/main.30d1926b.js.map",
+    "453.1407b060.chunk.js.map": "/github.io/AayushVerma/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a236c98.css",
+    "static/js/main.30d1926b.js"
+  ]
+}
